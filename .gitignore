@@ -1,0 +1,19 @@
+# Secrets
+.env
+wanikani_reading_practice_implementation_phases.md
+PLAN.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Local data (synced WaniKani DB)
+data/
+*.sqlite3
+
+# uv
+uv.lock
